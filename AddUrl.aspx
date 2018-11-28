@@ -10,11 +10,10 @@
             height: 370px;
             background-color: #EAE8DC;
         }
-        .auto-style2 {
-            color: #FF0000;
+ 
         }
         .auto-style4 {
-            height: 371px;
+          
         }
         .auto-style3 {
             background-color: #EAE8DC;
