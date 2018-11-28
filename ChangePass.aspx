@@ -15,12 +15,10 @@
             color: #FF0000;
         }
         .auto-style3 {
-            color: #000000;
-            text-align: center;
-            font-family: "Britannic Bold";
+
         }
         .auto-style4 {
-            height: 549px;
+            height: 600px;
         }
         .auto-style5 {
             text-align: center;
